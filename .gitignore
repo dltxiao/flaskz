@@ -6,3 +6,6 @@
 *.egg-info
 dist
 build
+.vscode/
+data-dev.sqlite
+env/
